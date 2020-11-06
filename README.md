@@ -1,16 +1,15 @@
-### Hi there 👋
+# [![Michael Wideburg](https://raw.githubusercontent.com/mwideburg/michael_wideburg_portfolio/main/assets/img/profile_banner.jpg)](https://www.michaelwideburg.com)
 
-<!--
-**mwideburg/mwideburg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Technologies
+![](https://img.shields.io/badge/OS-iOS-informational?style=flat&logo=apple&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/CODE-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/CODE-Ruby-informational?style=flat&logo=ruby&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/TOOLS-Node-informational?style=flat&logo=node-dot-js&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/TOOLS-PostSql-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/TOOLS-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/TOOLS-Rails-informational?style=flat&logo=rubyonrails&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/TOOLS-Redux-informational?style=flat&logo=redux&logoColor=white&color=2bbc8a)
 
-Here are some ideas to get you started:
+## My Stats
+[![Michael's github stats](https://github-readme-stats.vercel.app/api?username=mwideburg&theme=dark&show_icons=true)](https://github.com/mwideburg/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
