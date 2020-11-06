@@ -1,4 +1,4 @@
-# [![Michael Wideburg](https://raw.githubusercontent.com/mwideburg/michael_wideburg_portfolio/main/assets/img/michael_wideburg_profile_img.png)](https://www.michaelwideburg.com)
+# [![Michael Wideburg](https://raw.githubusercontent.com/mwideburg/michael_wideburg_portfolio/main/assets/img/michael_wideburg_profile_img.jpg)](https://www.michaelwideburg.com)
 
 ## Technologies
 ![](https://img.shields.io/badge/OS-iOS-informational?style=flat&logo=apple&logoColor=white&color=2bbc8a)
