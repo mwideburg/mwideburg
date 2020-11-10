@@ -12,7 +12,7 @@
 ![](https://img.shields.io/badge/TOOLS-Redux-informational?style=flat&logo=redux&logoColor=white&color=2bbc8a)
 
 ## Hello, my name is Michael Wideburg
-I am a software engineer based in Brooklyn, NY. I am currently seeking full time employment opertunities, I am dedicated and motivated to improving my current projects, to sharpen my skills as a full stack developer, as well as focusing on the particle.io to integrate sesnors into my applications.
+I am a software engineer based in Brooklyn, NY. I am currently seeking full time employment opportunities, I am dedicated and motivated to improving my current projects, to sharpen my skills as a full stack developer, as well as focusing on the particle.io to integrate sensors into my applications.
 
 I have a background in audio engineering, I am open to find a role at a company that values employee growth and creativity.
 
