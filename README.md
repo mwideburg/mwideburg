@@ -1,4 +1,4 @@
-# [![Michael Wideburg](https://raw.githubusercontent.com/mwideburg/mwideburg/main/assets/img/profile_banner.jpg)](https://www.michaelwideburg.com)
+# [![Michael Wideburg](https://raw.githubusercontent.com/mwideburg/mwideburg/main/assets/img/profile_banner.jpg)](https://mwideburg.github.io/)
 
 
 ## Technologies
