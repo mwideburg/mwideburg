@@ -19,7 +19,7 @@ I have a background in audio engineering, I am open to find a role at a company 
 - [LinkedIn](https://www.linkedin.com/in/michael-wideburg-01331b34/)
 - [AngelList](https://angel.co/u/michael-wideburg-1)
 
-<a href="https://mwideburg.github.io/"> Profile Link </a>
+<a href="https://mwideburg.github.io/"> Portfolio Link </a>
 
 ## My Stats
 [![Michael's github stats](https://github-readme-stats.vercel.app/api?username=mwideburg&theme=dark&show_icons=true)](https://github.com/mwideburg/github-readme-stats)
